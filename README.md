@@ -10,8 +10,6 @@ This repository contains Task 1 of the Future Interns Data Science & Analytics i
 - `Dashboard_Task1.pdf` - Power BI dashboard in PDF format
 - (Optional) `Dashboard_Task1.pbix` - Power BI source file
 
-## 📸 Dashboard Preview
-![Dashboard Screenshot](./your-screenshot.png) <!-- Only if you added screenshot -->
 
 ## 📌 Key Insights
 - 🔹 Top-selling products by revenue
